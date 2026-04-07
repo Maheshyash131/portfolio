@@ -11,7 +11,7 @@ const data = {
   education: [
     { degree: "MCA", detail: "Master of Computer Applications", status: "Pursuing", score: null },
     { degree: "BCA", detail: "Bachelor of Computer Applications", status: "Completed", score: "90%" },
-    { degree: "12th (PUC)", detail: "Vision PU College", status: "Completed", score: "67%" },
+    { degree: "12th (PUC)", detail: "Vision PU College", status: "Completed", score: "71%" },
     { degree: "10th (SSLC)", detail: "Navadeep School", status: "Completed", score: "61%" },
   ],
   skills: [
